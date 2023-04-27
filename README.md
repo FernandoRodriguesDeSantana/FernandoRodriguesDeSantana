@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FernandoRodriguesDeSantana
 - 👀 I’m interested in Machine Learning and Embedded Systems
 - 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on electric cars projects
-- 📫 How to reach me: using email, linkedin or github
+- 💞️ I’m looking to collaborate on electric cars and hardware projects
+- 📫 How to reach me: using e-mail, linkedin or github
 
 <!---
 FernandoRodriguesDeSantana/FernandoRodriguesDeSantana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
