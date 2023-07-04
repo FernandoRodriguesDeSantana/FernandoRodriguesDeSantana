@@ -16,14 +16,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## I'm learning
-
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-
-
-
-
-
-Resultado:
+</div>
 
 ## Contacts:
 
