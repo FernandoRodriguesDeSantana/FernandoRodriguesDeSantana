@@ -16,4 +16,10 @@ You can click the Preview link to take a look at your changes.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoRodriguesDeSantana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/FernandoRodriguesDeSantana/FernandoRodriguesDeSantana/blob/output/github-contribution-grid-snake.svg)
+## Contacts:
+
+<div>
+<a href="https://instagram.com/feernandorsantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:fernando.s11@aluno.ifsc.edu.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fernando-rodrigues-de-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
